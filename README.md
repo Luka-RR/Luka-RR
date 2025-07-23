@@ -107,10 +107,4 @@ Com esse conjunto de habilidades, atuo de forma versátil no desenvolvimento de 
 
 ### 📉 Estatiscas
 
-<img
-align="left"
-   all="GitHub stats"
-   height="150px"
-   style="padding-right: 10px;"
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luka-RR&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-   />
+
